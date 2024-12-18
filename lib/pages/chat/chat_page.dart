@@ -104,7 +104,7 @@ class _ChatPageState extends State<ChatPage> {
                           bubbleType = BubbleType.receiverBubble;
                           alignment = Alignment.topLeft;
                           backgroundColor =
-                              Theme.of(context).colorScheme.onSecondary;
+                              Colors.blue;
                           rightMargin = MediaQuery.of(context).size.width / 3;
                           leftMargin = 0;
                         }
