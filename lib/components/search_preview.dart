@@ -36,7 +36,7 @@ class SearchPreview extends StatelessWidget {
                           color: Colors.green, fontWeight: FontWeight.w600),
                     ),
                     RichText(
-                      text: TextSpan(children: searchResult.searchPreview),
+                      text: TextSpan(children: searchResult.searchPreview, style: const TextStyle(color: Colors.black)),
                     ),
                   ],
                 ),
