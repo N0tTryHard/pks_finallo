@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133268682482",
+    "project_id": "adss-pks",
+    "storage_bucket": "adss-pks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133268682482:android:b6bb6e0c272788dda0826b",
+        "android_client_info": {
+          "package_name": "com.example.adss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eNvejxGqezyDM7hxdKbTKxrW8rxumys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
